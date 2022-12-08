@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Мой район</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>улица Толстого<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Дом</string>
+    <string name="marker1_txt_click">Дом</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Мой дом<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/HOME/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Научная библиотека</string>
+    <string name="marker2_txt_click">Научная библиотека</string>
+    <string name="marker2_info">
+        <![CDATA[
+        Библиотека Инновационного Евразийского Университета
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/Library/index.html</string>
+
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Интернет-кафе</string>
+    <string name="marker3_txt_click">Rampage</string>
+    <string name="marker3_info">
+        <![CDATA[
+        Интернет-кафе Rampage
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/Rampage/index.html</string>
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Магазин электроники</string>
+    <string name="marker4_txt_click">Белый Ветер</string>
+    <string name="marker4_info">
+        <![CDATA[
+        Магазин электроники Белый Ветер
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/Wind/index.html</string>
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Павлодарский медицинский колледж</string>
+    <string name="marker5_txt_click">Павлодарский медицинский колледж</string>
+    <string name="marker5_info">
+        <![CDATA[
+       Мед колледж
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/College/index.html</string>
+
+    <string name="marker6_id">m6</string>
+    <string name="marker6_title">Школа-Лицей №10</string>
+    <string name="marker6_txt_click">Школа-Лицей №10</string>
+    <string name="marker6_info">
+        <![CDATA[
+        Школа-Лицей №10
+        ]]>
+        </string>
+    <string name="marker6_file">file:///android_asset/Lyceum/index.html</string>
+
+
+</resources>

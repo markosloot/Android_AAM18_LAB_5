@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/normal_map"
+            android:orderInCategory="100"
+            android:titleCondensed="Persist"
+            android:title="@string/normal_map"/>
+        <item android:id="@+id/satellite_map"
+            android:orderInCategory="101"
+            android:titleCondensed="Persist"
+            android:title="@string/satellite_map"/>
+        <item
+            android:id="@+id/relief_map"
+            android:orderInCategory="102"
+            android:titleCondensed="Persist"
+            android:title="@string/relief_map"/>
+    </group>
+
+</menu>
